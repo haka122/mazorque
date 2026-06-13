@@ -38,17 +38,3 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 4. Executar o app em um emulador ou dispositivo físico.
 5. Informar um CEP válido, como `01001000`, e tocar em **Consultar CEP**.
 
-## Prints do aplicativo
-Adicione aqui prints da tela inicial e da tela com resultado antes de enviar o link no AVA.
-
-Como tirar os prints pelo Android Studio:
-1. Abra o app no emulador.
-2. Tire um print da tela inicial com o campo vazio.
-3. Digite `01001000`, toque em **Consultar CEP** e tire outro print com o resultado.
-4. Opcionalmente, toque em **Consultar CEP** com o campo vazio e tire um print da mensagem de erro.
-5. Salve as imagens na pasta `docs/screenshots` e adicione no README.
-
-## Autor
-Nome do aluno.
-# faculdade
-# faculdade

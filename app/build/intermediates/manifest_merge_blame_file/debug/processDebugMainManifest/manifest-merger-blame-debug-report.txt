@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.consultacep"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="23"
+8-->INJECTED
+9        android:targetSdkVersion="35" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:6:5-21:19
+14        android:allowBackup="true"
+14-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:7:9-35
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+16-->INJECTED
+17        android:icon="@drawable/ic_launcher"
+17-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:8:9-45
+18        android:label="@string/app_name"
+18-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:9:9-41
+19        android:supportsRtl="true"
+19-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.ConsultaCep" >
+21-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:11:9-49
+22        <activity
+22-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:12:9-20:20
+23            android:name="com.example.consultacep.MainActivity"
+23-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:13:13-41
+24            android:exported="true" >
+24-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:14:13-36
+25            <intent-filter>
+25-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:15:13-19:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:16:17-69
+26-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:16:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:18:17-77
+28-->/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/AndroidManifest.xml:18:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.consultacep.app-mergeDebugResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2,10,4,8,9,3,7,5,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,407,142,324,365,100,280,184,231",
+                        "endColumns": "44,39,41,40,41,41,43,46,48",
+                        "endOffsets": "95,442,179,360,402,137,319,226,275"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,140,182,223,265,307,351,398",
+                        "endColumns": "44,39,41,40,41,41,43,46,48",
+                        "endOffsets": "95,135,177,218,260,302,346,393,442"
+                    }
+                },
+                {
+                    "source": "/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3,5,6,10,8,11,12,9,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,105,290,345,585,467,643,711,519,401",
+                        "endColumns": "49,133,50,54,55,57,51,67,51,65,65",
+                        "endOffsets": "100,285,151,340,396,638,514,706,758,580,462"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "447,497,631,682,737,793,851,903,971,1023,1089",
+                        "endColumns": "49,133,50,54,55,57,51,67,51,65,65",
+                        "endOffsets": "492,626,677,732,788,846,898,966,1018,1084,1150"
+                    }
+                },
+                {
+                    "source": "/Users/teste/Documents/dispositivos moveis/CEP/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "10,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "482,55",
+                        "endLines": "16,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "821,476"
+                    },
+                    "to": {
+                        "startLines": "22,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "1155,1499",
+                        "endLines": "28,35",
+                        "endColumns": "12,12",
+                        "endOffsets": "1494,1920"
+                    }
+                }
+            ]
+        }
+    ]
+}

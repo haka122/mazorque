@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consulta CEP</string>
+    <string name="app_title">Consulta CEP</string>
+    <string name="app_subtitle">Digite um CEP brasileiro para buscar endereço, cidade, UF e DDD usando a API pública ViaCEP.</string>
+    <string name="cep_hint">Exemplo: 01001000</string>
+    <string name="consultar_cep">Consultar CEP</string>
+    <string name="resultado_titulo">Resultado encontrado</string>
+    <string name="resultado_cep">CEP: %1$s</string>
+    <string name="resultado_logradouro">Logradouro: %1$s</string>
+    <string name="resultado_bairro">Bairro: %1$s</string>
+    <string name="resultado_cidade">Cidade/UF: %1$s - %2$s</string>
+    <string name="resultado_ddd">DDD: %1$s</string>
+</resources>

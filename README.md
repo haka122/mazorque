@@ -38,3 +38,12 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 4. Executar o app em um emulador ou dispositivo físico.
 5. Informar um CEP válido, como `01001000`, e tocar em **Consultar CEP**.
 
+## Prints do Aplicativo
+
+### Tela Inicial
+
+![Tela Inicial](screenshots/Captura%20de%20Tela%202026-06-11%20%C3%A0s%2021.04.39.png)
+
+### Resultado da Consulta
+
+![Resultado da Consulta](screenshots/Captura%20de%20Tela%202026-06-11%20%C3%A0s%2021.05.00.png)
